@@ -1,0 +1,5 @@
+Flask>=3.0,<4.0
+Pillow>=10.0
+numpy>=1.26
+# Optional for real model inference / training:
+# tensorflow>=2.15
